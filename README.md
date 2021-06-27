@@ -1,2 +1,4 @@
 # Environmental-Control-Unit
-Automated hydroponic system
+
+An automated hydroponic system, controlling interior air and reservior quality.
+
